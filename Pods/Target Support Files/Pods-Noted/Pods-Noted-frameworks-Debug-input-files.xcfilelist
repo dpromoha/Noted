@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Noted/Pods-Noted-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ColorPalette/ColorPalette.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework

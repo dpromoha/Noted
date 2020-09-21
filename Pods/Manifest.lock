@@ -1,0 +1,26 @@
+PODS:
+  - ColorPalette (0.0.1)
+  - Realm (5.3.4):
+    - Realm/Headers (= 5.3.4)
+  - Realm/Headers (5.3.4)
+  - RealmSwift (5.3.4):
+    - Realm (= 5.3.4)
+
+DEPENDENCIES:
+  - ColorPalette
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - ColorPalette
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  ColorPalette: f6b36af0c05d34ae35ec0edf257d3202e8ea5f09
+  Realm: 4dd457b6ed025041cf7efe05dae78c027ba842e0
+  RealmSwift: 233af88fffe05ed7f9305eecef100d477c0c2c42
+
+PODFILE CHECKSUM: 2830e93a12cb6643bac4d8cbad2e351f078fe1cf
+
+COCOAPODS: 1.9.3
